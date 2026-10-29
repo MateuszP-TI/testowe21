@@ -1,0 +1,23 @@
+h1 {
+    text-decoration-style: solid;
+}
+h2 {
+    text-decoration-style: double;
+}
+.termin {
+    text-decoration-style: dashed;
+    text-decoration: underline blue;
+}
+.odwolane {
+    text-decoration-style: wavy;
+    text-decoration: line-through red;
+}
+.sukces {
+    text-decoration: underline red dotted 4px;
+}
+.link {
+    text-decoration: none;
+}
+.wyroznij {
+    text-decoration: underline green wavy px;
+}
